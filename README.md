@@ -17,8 +17,6 @@
 
 [![website](./img/vk.svg)](https://vk.com/azamatikbest)
 [![website](./img/telegram.svg)](https://https://t.me/HallowAz)
-[![website](./img/instagram-light.svg)](https://instagram.com/azamat_today#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/azamat_today#gh-dark-mode-only)
 
 ### Языки программирования и инструменты:
 
