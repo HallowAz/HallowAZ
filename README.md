@@ -16,7 +16,7 @@
 ### Для связи:
 
 [![website](./img/vk.svg)](https://vk.com/azamatikbest)
-[![website](./img/telegram.svg)](https://https://t.me/HallowAz)
+[![website](./img/telegram.svg)](https://t.me/HallowAz)
 
 ### Языки программирования и инструменты:
 
